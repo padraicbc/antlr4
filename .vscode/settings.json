@@ -1,0 +1,6 @@
+{
+  "files.exclude": {
+    "../jp/parser_base_listener.go": true,
+    "../jp/parser_listener.go": true
+  }
+}
